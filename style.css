@@ -1,0 +1,115 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  height: 100vh;
+  font-family: Orbitron;
+  margin: 20px 20px;
+}
+[aria-label="navbar"] {
+  width: 100vh;
+  height: 20vh;
+}
+.list {
+  display: flex;
+  text-align: center;
+  list-style: none;
+  position: relative;
+  left: 350px;
+  bottom: 50px;
+}
+.list li {
+  padding: 0 12px;
+  text-align: center;
+}
+div .button-group {
+  float: right;
+  position: relative;
+  bottom: 100px;
+  left: 550px;
+}
+.search-icon {
+  position: relative;
+  top: 30px;
+  right: 60px;
+}
+.nav-button {
+  padding: 8px 30px;
+  border-radius: 5px;
+}
+
+.square {
+  padding-top: 15px;
+  position: absolute;
+  z-index: -1;
+}
+span.square {
+  margin-top: 100px;
+  height: 190px;
+  width: 150px;
+  display: inline;
+}
+.star {
+  height: 50px;
+}
+span.star {
+  float: right;
+  position: absolute;
+  left: 900px;
+}
+span.globe {
+  margin-top: 9px;
+  margin-left: 490px;
+}
+div [alt="person-hero-iamge"] {
+  height: 400px;
+  width: 300px;
+}
+.hero-container-right {
+  height: auto;
+  width: 800px;
+  float: right;
+  position: relative;
+  bottom: 350px;
+  text-align: center;
+}
+.hero-heading {
+  font-weight: 600;
+  font-size: 50px;
+  text-align: center;
+  padding-bottom: 70px;
+}
+.hero-description {
+  text-align: center;
+  font-size: 15px;
+}
+.btn-container{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+  gap: 20px;
+}
+.button-email {
+height: 30px;
+width: 100px;
+border-radius: 5px ;
+background-color: transparent;
+}
+.button-join{
+  height: 30px;
+  width: 100px;
+  border-radius: 5px;
+  background-color: #161515;
+  color: #eeebeb;
+}
+.contact-heading {
+  text-align: center;
+  font-size: 23px;
+  padding-top: 50px;
+}
+div .icons {
+  margin-top: 12px;
+}
