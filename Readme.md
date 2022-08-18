@@ -1,7 +1,21 @@
-# I learn lots about html and css
+# Hi, I'm Anuj Kumar
 
-## second thing about programing
+I'm a front developer
 
-[google](https://google.com)
+### Project Title -Trend 2025
 
-![image](https://img.shields.io/badge/Test--live-project--1-orange)
+In this project i learn about postion
+
+## Average time to complete this project
+
+5Hrs
+
+### Lessons Learned
+
+How to fit image on right place
+
+## Features on this project
+
+only for desktop view
+
+full screen modes
